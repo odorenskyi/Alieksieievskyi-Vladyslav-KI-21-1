@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1652212222 source:c:\users\user\desktop\cntu\¡Ã“œ\À–\git\alieksieievskyi-vladyslav-ki-21-1\lab08\prj\modulesalieksieievskyi\main.cpp
+	<math.h>
+	<iostream>
+	<sstream>
+	<bitset>
+	"ModulesAlieksieievskyi.h"
+
+1652212720 c:\users\user\desktop\cntu\¡Ã“œ\À–\git\alieksieievskyi-vladyslav-ki-21-1\lab08\prj\modulesalieksieievskyi\modulesalieksieievskyi.h
+	<math.h>
+	<string>
+
+1652212181 source:c:\users\user\desktop\cntu\¡Ã“œ\À–\git\alieksieievskyi-vladyslav-ki-21-1\lab09\prj\modulesalieksieievskyi\main.cpp
+	<math.h>
+	<iostream>
+	<sstream>
+	<bitset>
+	"ModulesAlieksieievskyi.h"
+
+1652212181 c:\users\user\desktop\cntu\¡Ã“œ\À–\git\alieksieievskyi-vladyslav-ki-21-1\lab09\prj\modulesalieksieievskyi\modulesalieksieievskyi.h
+	<math.h>
+	<string>
+
+1652992483 source:c:\users\user\desktop\cntu\¡Ã“œ\À–\git\alieksieievskyi-vladyslav-ki-21-1\lab10\prj\modulesalieksieievskyi\main.cpp
+	<math.h>
+	<iostream>
+	<sstream>
+	<bitset>
+	<ctime>
+	<fstream>
+	"ModulesAlieksieievskyi.h"
+
+1652987939 c:\users\user\desktop\cntu\¡Ã“œ\À–\git\alieksieievskyi-vladyslav-ki-21-1\lab10\prj\modulesalieksieievskyi\modulesalieksieievskyi.h
+	<math.h>
+	<string>
+

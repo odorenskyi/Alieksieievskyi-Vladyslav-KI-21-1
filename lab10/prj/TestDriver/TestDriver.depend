@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1653407270 source:c:\users\user\desktop\cntu\¡Ã“œ\À–\git\alieksieievskyi-vladyslav-ki-21-1\lab10\prj\testdriver\main.cpp
+	<iostream>
+	<cstring>
+	<conio.h>
+	<iomanip>
+	<windows.h>
+	"ModulesAlieksieievskyi.h"
+
+1653386772 c:\users\user\desktop\cntu\¡Ã“œ\À–\git\alieksieievskyi-vladyslav-ki-21-1\lab10\prj\modulesalieksieievskyi\modulesalieksieievskyi.h
+	<math.h>
+	<string>
+
